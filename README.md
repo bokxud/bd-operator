@@ -11,7 +11,13 @@
 * pkg install python git
 
 
+* pkg install python2
+
+
 * pip install requests
+
+
+* pip install mechanize 
 
 
 * git clone https://github.com/bokxud/bd-operator
