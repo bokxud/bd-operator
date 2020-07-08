@@ -20,7 +20,7 @@
 * cd bd-operator
 
 
-* python bangladesh.py
+* python2 bangladesh.py
 
 
 Tools user : ttt
