@@ -29,9 +29,9 @@
 * python2 bangladesh.py
 
 
-Tools user : ttt
+Tools user && pass : >>>>>>>>>contact >>>https://t.me/BDKR28
 
-Tools pass : ttt
+
 
 
 
