@@ -29,13 +29,13 @@
 * python2 bangladesh.py
 
 
-Tools user && pass : >>>>>>>>>contact >>>https://t.me/BDKR28
+Tools user && pass : >>>>>>>>>contact >>>https://t.me/BD2021KR
 
 
 
 
 
-YouTube : https://youtube.com/c/BDKR-28
+FACEBOOK : www.facebook.com/ctfsolution
 
 
-Telegram : https://t.me/bdkr2
+Telegram : https://t.me/BD2021KR
